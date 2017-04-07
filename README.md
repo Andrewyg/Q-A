@@ -1,7 +1,7 @@
 
 # Visit our main site at [Andrewyg](https://andrewyg.net)
 ## Welcome to Q&A published by Andrew
-### In here we made some fill in the blank and all you need to do is fill in the people's name who said the quote
+### In here we made some fill in the blank and all you need to do is fill in the name of the person who originally said each quote
 <hr />
 
 <a href="https://widgetic.com/widgets/util/madlibs/" class="widgetic-composition" data-autoscale="on" data-id="58e74e16ecb2a198418b457a" data-width="640" data-height="400" data-resize="fill-width">Madlibs</a><script async src="https://widgetic.com/sdk/sdk.js"></script>
