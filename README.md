@@ -1,8 +1,4 @@
-<style>
-div#div1 {
-display:"none";
-}
-</style>
+
 # Visit our main site at [Andrewyg](https://andrewyg.net)
 ## Welcome to Q&A published by Andrew
 ### In here we made some fill in the blank and all you need to do is fill in the people's name who said the quote
@@ -31,7 +27,7 @@ display:"none";
 <a href="https://widgetic.com/widgets/util/madlibs/" class="widgetic-composition" data-autoscale="on" data-id="58e754a8ecb2a12e458b458f" data-width="659" data-height="308" data-resize="fill-width">Madlibs</a><script async src="https://widgetic.com/sdk/sdk.js"></script>
 
 <hr />
-<button onclick="show()">Show</button>
+
 <div id="div1">
 <img src="1.jpg" />
 <img src="2.jpg" />
@@ -41,8 +37,4 @@ display:"none";
 <img src="6.jpg" />
 </div>
 
-<script>
-function show() {
-document.getElementById('div1').style.display = 'inline';
-}
-</script>
+
