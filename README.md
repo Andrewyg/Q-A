@@ -26,9 +26,9 @@
 <a href="https://widgetic.com/widgets/util/madlibs/" class="widgetic-composition" data-autoscale="on" data-id="58e754a8ecb2a12e458b458f" data-width="659" data-height="308" data-resize="fill-width">Madlibs</a><script async src="https://widgetic.com/sdk/sdk.js"></script>
 
 <hr />
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](1.jpg "Question 1 image")
+![alt text](2.jpg "Question 2 image")
+![alt text](3.jpg "Question 3 image")
+![alt text](4.jpg "Question 4 image")
+![alt text](5.jpg "Question 5 image")
+![alt text](6.jpg "Question 6 image")
