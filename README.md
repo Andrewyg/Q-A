@@ -24,3 +24,11 @@
 <hr />
 
 <a href="https://widgetic.com/widgets/util/madlibs/" class="widgetic-composition" data-autoscale="on" data-id="58e754a8ecb2a12e458b458f" data-width="659" data-height="308" data-resize="fill-width">Madlibs</a><script async src="https://widgetic.com/sdk/sdk.js"></script>
+
+<hr />
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
