@@ -31,8 +31,7 @@ display:"none";
 <a href="https://widgetic.com/widgets/util/madlibs/" class="widgetic-composition" data-autoscale="on" data-id="58e754a8ecb2a12e458b458f" data-width="659" data-height="308" data-resize="fill-width">Madlibs</a><script async src="https://widgetic.com/sdk/sdk.js"></script>
 
 <hr />
-<button onclick="show()"
->Show</button>
+<button onclick="show()">Show</button>
 <div id="div1">
 ![alt text](1.jpg "Question 1 image")
 ![alt text](2.jpg "Question 2 image")
