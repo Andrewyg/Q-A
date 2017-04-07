@@ -33,12 +33,12 @@ display:"none";
 <hr />
 <button onclick="show()">Show</button>
 <div id="div1">
-![alt text](1.jpg "Question 1 image")
-![alt text](2.jpg "Question 2 image")
-![alt text](3.jpg "Question 3 image")
-![alt text](4.jpg "Question 4 image")
-![alt text](5.jpg "Question 5 image")
-![alt text](6.jpg "Question 6 image")
+<img src="1.jpg" />
+<img src="2.jpg" />
+<img src="3.jpg" />
+<img src="4.jpg" />
+<img src="5.jpg" />
+<img src="6.jpg" />
 </div>
 
 <script>
